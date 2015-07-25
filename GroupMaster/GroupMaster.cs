@@ -7,20 +7,29 @@ namespace GroupMaster
 {
 	public class App : Application
 	{
+		static GroupMasterDB database;
+		public static GroupMasterDB Database {
+			get {
+				database = database ?? new GroupMasterDB ();
+				return database;
+			}
+		}
+
 		public App ()
 		{
+			MainPage = new SignUpPage();
 			// The root page of your application
-			MainPage = new ContentPage {
-				Content = new StackLayout {
-					VerticalOptions = LayoutOptions.Center,
-					Children = {
-						new Label {
-							XAlign = TextAlignment.Center,
-							Text = "Welcome to Xamarin Forms!"
-						}
-					}
-				}
-			};
+//			MainPage = new ContentPage {
+//				Content = new StackLayout {
+//					VerticalOptions = LayoutOptions.Center,
+//					Children = {
+//						new Label {
+//							XAlign = TextAlignment.Center,
+//							Text = "Welcome to Xamarin Forms!"
+//						}
+//					}
+//				}
+//			};
 		}
 
 		protected override void OnStart ()
@@ -29,9 +38,6 @@ namespace GroupMaster
 			// your Parse dashboard
 			ParseClient.Initialize("evcq2mbbPHwCnCznl8yvbzvzMI7ij2G5G2v4oPcH",
 				"3Ms32KvfmlFhsfD7y0OBIrecP04N4KZJNPYfOZqb");
-			var testObject = new ParseObject ("MJTest");
-			testObject ["source"] = "android again";
-			testObject.SaveAsync ();
 		}
 
 		protected override void OnSleep ()

@@ -80,13 +80,13 @@ public class MonoPackageManager {
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		"GroupMaster.Droid.dll",
-		"Parse.Android.dll",
 		"Xamarin.Forms.Platform.Android.dll",
 		"FormsViewGroup.dll",
 		"Xamarin.Forms.Core.dll",
 		"Xamarin.Forms.Xaml.dll",
 		"Xamarin.Forms.Platform.dll",
 		"Xamarin.Android.Support.v4.dll",
+		"Parse.Android.dll",
 		"System.Collections.Concurrent.dll",
 		"System.Collections.dll",
 		"System.ComponentModel.Annotations.dll",

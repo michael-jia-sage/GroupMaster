@@ -1,0 +1,7 @@
+/Users/jiazonggao/WorkSpace/Mobile/GroupMaster/UITests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jiazonggao/WorkSpace/Mobile/GroupMaster/UITests/bin/Debug/GroupMaster.UITests.dll.mdb
+/Users/jiazonggao/WorkSpace/Mobile/GroupMaster/UITests/bin/Debug/GroupMaster.UITests.dll
+/Users/jiazonggao/WorkSpace/Mobile/GroupMaster/UITests/obj/Debug/GroupMaster.UITests.dll
+/Users/jiazonggao/WorkSpace/Mobile/GroupMaster/UITests/obj/Debug/GroupMaster.UITests.dll.mdb
+/Users/jiazonggao/WorkSpace/Mobile/GroupMaster/UITests/bin/Debug/nunit.framework.dll
+/Users/jiazonggao/WorkSpace/Mobile/GroupMaster/UITests/bin/Debug/Xamarin.UITest.dll

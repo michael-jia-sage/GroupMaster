@@ -2,14 +2,6 @@ GroupMaster.Droid.MainActivity, GroupMaster.Droid;md541f7f6dfd5190918c8ab84ef356
 GroupMaster.Droid.MainActivity, GroupMaster.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md541f7f6dfd5190918c8ab84ef3565fbf6.MainActivity
 GroupMaster.Droid.MainActivity;md541f7f6dfd5190918c8ab84ef3565fbf6.MainActivity
 groupmaster.droid.MainActivity;md541f7f6dfd5190918c8ab84ef3565fbf6.MainActivity
-Parse.ParsePushBroadcastReceiver, Parse.Android;parse.ParsePushBroadcastReceiver
-Parse.ParsePushBroadcastReceiver, Parse.Android, Version=1.5.3.0, Culture=neutral, PublicKeyToken=null;parse.ParsePushBroadcastReceiver
-Parse.ParsePushBroadcastReceiver;parse.ParsePushBroadcastReceiver
-parse.ParsePushBroadcastReceiver;parse.ParsePushBroadcastReceiver
-Parse.ParsePushService, Parse.Android;parse.ParsePushService
-Parse.ParsePushService, Parse.Android, Version=1.5.3.0, Culture=neutral, PublicKeyToken=null;parse.ParsePushService
-Parse.ParsePushService;parse.ParsePushService
-parse.ParsePushService;parse.ParsePushService
 Xamarin.Forms.Platform.Android.CellAdapter, Xamarin.Forms.Platform.Android;md5530bd51e982e6e7b340b73e88efe666e.CellAdapter
 Xamarin.Forms.Platform.Android.CellAdapter, Xamarin.Forms.Platform.Android, Version=1.4.0.0, Culture=neutral, PublicKeyToken=null;md5530bd51e982e6e7b340b73e88efe666e.CellAdapter
 Xamarin.Forms.Platform.Android.CellAdapter;md5530bd51e982e6e7b340b73e88efe666e.CellAdapter
@@ -362,3 +354,11 @@ Android.Support.V4.Widget.SwipeRefreshLayout/IOnRefreshListenerImplementor, Xama
 Android.Support.V4.Widget.SwipeRefreshLayout/IOnRefreshListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor
 Android.Support.V4.Widget.SwipeRefreshLayout.IOnRefreshListenerImplementor;mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor
 android.support.v4.widget.SwipeRefreshLayout_IOnRefreshListenerImplementor;mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor
+Parse.ParsePushBroadcastReceiver, Parse.Android;parse.ParsePushBroadcastReceiver
+Parse.ParsePushBroadcastReceiver, Parse.Android, Version=1.5.3.0, Culture=neutral, PublicKeyToken=null;parse.ParsePushBroadcastReceiver
+Parse.ParsePushBroadcastReceiver;parse.ParsePushBroadcastReceiver
+parse.ParsePushBroadcastReceiver;parse.ParsePushBroadcastReceiver
+Parse.ParsePushService, Parse.Android;parse.ParsePushService
+Parse.ParsePushService, Parse.Android, Version=1.5.3.0, Culture=neutral, PublicKeyToken=null;parse.ParsePushService
+Parse.ParsePushService;parse.ParsePushService
+parse.ParsePushService;parse.ParsePushService
