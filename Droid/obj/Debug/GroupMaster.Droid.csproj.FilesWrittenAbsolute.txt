@@ -42,3 +42,6 @@
 /Users/jiazonggao/WorkSpace/Mobile/GroupMaster/Droid/bin/Debug/Xamarin.Android.Support.v4.dll
 /Users/jiazonggao/WorkSpace/Mobile/GroupMaster/Droid/obj/Debug/GroupMaster.Droid.SignUpPage.xaml
 /Users/jiazonggao/WorkSpace/Mobile/GroupMaster/Droid/obj/Debug/SignUpPage.xaml.g.cs
+/Users/jiazonggao/WorkSpace/Mobile/GroupMaster/Droid/obj/Debug/GroupMaster.Droid.Views.SignUpPage.xaml
+/Users/jiazonggao/WorkSpace/Mobile/GroupMaster/Droid/obj/Debug/GroupMaster.Droid.Views.DashBoardPage.xaml
+/Users/jiazonggao/WorkSpace/Mobile/GroupMaster/Droid/obj/Debug/DashBoardPage.xaml.g.cs

@@ -77,3 +77,5 @@
 /Users/jiazonggao/WorkSpace/Mobile/GroupMaster/iOS/obj/iPhoneSimulator/Debug/GroupMaster.iOS.SignUpPage.xaml
 /Users/jiazonggao/WorkSpace/Mobile/GroupMaster/iOS/obj/iPhoneSimulator/Debug/SignUpPage.xaml.g.cs
 /Users/jiazonggao/WorkSpace/Mobile/GroupMaster/iOS/obj/iPhoneSimulator/Debug/GroupMaster.iOS.Views.SignUpPage.xaml
+/Users/jiazonggao/WorkSpace/Mobile/GroupMaster/iOS/obj/iPhoneSimulator/Debug/GroupMaster.iOS.Views.DashBoardPage.xaml
+/Users/jiazonggao/WorkSpace/Mobile/GroupMaster/iOS/obj/iPhoneSimulator/Debug/DashBoardPage.xaml.g.cs

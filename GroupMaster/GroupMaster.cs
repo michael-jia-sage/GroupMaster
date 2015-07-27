@@ -17,7 +17,13 @@ namespace GroupMaster
 
 		public App ()
 		{
-			MainPage = new SignUpPage();
+			LocalInfo localInfo = App.Database.GetActiveLocalInfo ();
+			if (localInfo != null) {
+				MainPage = new DashBoardPage();
+			} else {
+				MainPage = new SignUpPage();
+			}
+				
 			// The root page of your application
 //			MainPage = new ContentPage {
 //				Content = new StackLayout {

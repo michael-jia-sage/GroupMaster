@@ -1,9 +1,13 @@
 ﻿<Properties StartupItem="iOS/GroupMaster.iOS.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 4 (Lollipop)" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="GroupMaster/SignUp.xaml.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone4s.8.4" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GroupMaster/Views/SignUpPage.xaml.cs">
     <Files>
-      <File FileName="GroupMaster/SignUp.xaml" Line="1" Column="1" />
-      <File FileName="GroupMaster/SignUp.xaml.cs" Line="5" Column="1" />
+      <File FileName="GroupMaster/GroupMaster.cs" Line="13" Column="1" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="GroupMaster/Data/SQLite.cs" Line="135" Column="18" />
+      <File FileName="GroupMaster/Data/GroupMasterDB.cs" Line="71" Column="4" />
+      <File FileName="GroupMaster/Models/LocalInfo.cs" Line="18" Column="3" />
+      <File FileName="GroupMaster/Views/SignUpPage.xaml.cs" Line="73" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

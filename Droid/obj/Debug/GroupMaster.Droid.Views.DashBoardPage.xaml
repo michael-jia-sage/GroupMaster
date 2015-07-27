@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="GroupMaster.DashBoardPage">
+	<ContentPage.Content>
+		<StackLayout>
+			<Label x:Name="lblTitle" VerticalOptions="Start" XAlign="Center" IsVisible="true" FontSize="Large" FontAttributes="Bold" TextColor="Maroon" />
+			<Label Text="Group Activities" VerticalOptions="Center" XAlign="Center" IsVisible="true" FontAttributes="Bold" TextColor="Orange" />
+			<Button x:Name="btnCostMemo" Text="Cost Memo" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" Clicked="btnCostMemo_Clicked" />
+			<Button x:Name="btnPayment" Text="Add Payment" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" Clicked="btnAddPayment_Clicked" />
+			<Label Text="Group Games" VerticalOptions="Center" XAlign="Center" IsVisible="true" FontAttributes="Bold" TextColor="Orange" />
+			<Button x:Name="btnZicZac" Text="ZicZac" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" Clicked="btnZicZac_Clicked" />
+			<Button x:Name="btnDigitMine" Text="Digit Mine" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" Clicked="btnDigitMine_Clicked" />
+			<Label x:Name="lblMessage" VerticalOptions="End" XAlign="Center" IsVisible="true" FontSize="Large" FontAttributes="Bold" TextColor="Aqua" />
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>
